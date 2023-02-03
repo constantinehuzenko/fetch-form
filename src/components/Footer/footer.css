@@ -1,0 +1,11 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-grow: 4;
+}
+
+footer > .footer-link {
+  margin-right: 16px;
+  cursor: pointer;
+}
